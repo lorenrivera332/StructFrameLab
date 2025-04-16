@@ -1,0 +1,23 @@
+
+---
+
+### **2. 22_APILinkMonitor**  
+**Description:**  
+A batch endpoint health monitor focused on uptime, error codes, and latency trends.
+
+#### **README.md**
+```markdown
+# APILinkMonitor - Endpoint Uptime and Latency Tracker
+
+APILinkMonitor scans and logs a list of URLs, helping identify slow or unstable endpoints.
+
+## Features
+- HTTP code + response time logging  
+- CLI dashboard  
+- JSON / CSV export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_APILinkMonitor.git
+cd 22_APILinkMonitor
+python monitor.py
