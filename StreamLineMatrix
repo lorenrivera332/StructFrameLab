@@ -1,0 +1,23 @@
+
+---
+
+### **4. 22_StreamLineMatrix**  
+**Description:**  
+A scrolling live graph for real-time numeric data streams.
+
+#### **README.md**
+```markdown
+# StreamLineMatrix - Live Metric Visualizer
+
+StreamLineMatrix displays incoming numeric values in a smooth, real-time chart that supports multiple data series.
+
+## Features
+- Realtime chart with scroll  
+- Matplotlib-based  
+- Adjustable refresh rate  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_StreamLineMatrix.git
+cd 22_StreamLineMatrix
+python visualize.py
